@@ -1,0 +1,10 @@
+C:\Users\rstei\Desktop\CSM Convert Source\CSM Converter\obj\Debug\CSM Converter.csprojResolveAssemblyReference.cache
+C:\Users\rstei\Desktop\CSM Convert Source\CSM Converter\bin\Debug\CSM Converter.exe
+C:\Users\rstei\Desktop\CSM Convert Source\CSM Converter\bin\Debug\CSM Converter.pdb
+C:\Users\rstei\Desktop\CSM Convert Source\CSM Converter\obj\Debug\CSM Converter.exe
+C:\Users\rstei\Desktop\CSM Convert Source\CSM Converter\obj\Debug\CSM Converter.pdb
+C:\Users\rstei\Desktop\CSM Convert Source\CSM Converter\obj\Debug\Form1.resources
+C:\Users\rstei\Desktop\CSM Convert Source\CSM Converter\obj\Debug\CSM Converter.csproj.GenerateResource.Cache
+C:\Users\rstei\Desktop\CSM Convert Source\CSM Converter\bin\Debug\Guna.UI.dll
+C:\Users\rstei\Desktop\CSM Convert Source\CSM Converter\bin\Debug\Guna.UI2.dll
+C:\Users\rstei\Desktop\CSM Convert Source\CSM Converter\obj\Debug\CSM_Converter.Properties.Properties.Resources.resources
