@@ -7,7 +7,7 @@ This CSM Convert, can convert the .json file to a CSM for using this on PCK Stud
 
 Every models can be converted to the CSM for PCK Studio.
 
-Working for every Minecraft Console PS3, Xbox 360, Wii U
+Working for every Minecraft Console /wiiu/Switch/PSVita/PS3/PS4/PE/BE
 
 App created by: Luke Worker
 Source Release By: Misaki Sagiri
